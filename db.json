@@ -2,7 +2,7 @@
   "employees": [
     { "fullname": "Thu Vo", "startdate": "1/1/2000", "ssn": "123123123", "visaStatus": "F1" },
     { "fullname": "Jessica Vo", "startdate": "1/1/2002", "ssn": "1432432123", "visaStatus": "F2" },
-    { "fullname": "Kattie Ho", "startdate": "1/1/2003", "ssn": "1323213", "visaStatus": "F4"}
-    { "fullname": "Jessica Nguyen", "startdate": "1/1/2003", "ssn": "1323213", "visaStatus": "F4"}
+    { "fullname": "Kattie Ho", "startdate": "1/1/2003", "ssn": "1323213", "visaStatus": "F4"},
+    { "fullname": "Jessica Nguyen", "startdate": "1/1/2003", "ssn": "1323213", "visaStatus": "F4"},
   ]
 }
